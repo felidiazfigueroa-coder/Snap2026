@@ -1,0 +1,7 @@
+{
+  "name": "SNAP 2026 Intake Manager",
+  "description": "High-tech sales orchestration system converting URLs to customers via Gemini AI analysis and generation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
